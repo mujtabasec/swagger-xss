@@ -1,1 +1,1 @@
-confirm(document.domain)
+alert(document.domain + "\n" + document.cookie);
